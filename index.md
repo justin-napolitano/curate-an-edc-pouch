@@ -7,7 +7,6 @@ tags = ['cooking']
 images = ["images/feauture-pouch.jpg"]
 +++
 
-![dinner](./images/dinner.jpg)
 
 ## Why
 
@@ -25,8 +24,6 @@ in my case I have at my disposal. I'd love to buy mores stuff, but if I am being
 
 ### Supply list
 
-![images-unpacked](./images/top-view.jpg)
-
 1. A pouch.
 2. Swiss army knife.
 3. 4 inch crescent wrench.
@@ -39,7 +36,10 @@ in my case I have at my disposal. I'd love to buy mores stuff, but if I am being
 10. A first aid kit
 11. Opinel no 7 Carbon Knife
 12. Some latex gloves
-    
+
+
+
+![images-unpacked](./images/top-packed-vertical.jpg)
 
 ### Determine every day uses
 
@@ -107,6 +107,8 @@ the first aid/hygiene contains
 3. a tick remover.
 4. a nail file.
 5. nail clippers
+6. immodium.
+7. benadryl.
 
 #### Justify the opinel
 
@@ -124,3 +126,20 @@ I do not like making my hands dirty.  Nor do i like touching unsanitized things.
 you know there really isn't much to this one. Just put everything in the pouch in a way that is organized and not messy. 
 
 ![packed-pouch](./images/top-packed-side.jpg)
+
+
+## Justify missing items
+
+i think a few key tools are missing from this set.  
+
+i would like...
+
+1. small pliers like a mini knipex.
+2. a lighter.
+3. a couple of matches.
+4. some soap to clean-up while out of the house.
+5. iodine tablets or a small vile of disinfectant bleach for dirty water.
+
+## Justify my justifications
+
+i hinted at this earlier... every rationalization i make comes down to the fact that each choice i made in this exercise was influenced by desire to possess the object.  i like being prepared. i like tools. i like ingenuity. i like it when people think that i am resourceful. my pouch is a reflection of these desires.
