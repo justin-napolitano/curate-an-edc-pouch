@@ -115,7 +115,7 @@ the first aid/hygiene contains
 i like the opinel no 7. I think at the end of the day everything comes down to whether or not i want and like it... now trying to justify my liking it.. the opinel no 7 has a slightly larger blade than the main blade of the swissie tinker.  The opinel is also not threatening at all. I can use it cut an apple or eat at a restaurant without raising any eyebrows. it is also sharp enough to be capable of most "survival" tasks that i can throw at it if the occasion arises. 
 
 
-> the carbon steel seems like a good idea initially. it is cool, but it rusts in the houston moisture. the next one i buy will definitely be stainless. Unfortunately this knife will last me the rest of my life.
+> the carbon steel felt like a good idea initially. it is cool, but it rusts in the houston moisture. the next one i buy will definitely be stainless. Unfortunately this knife will last me the rest of my life.
 
 #### Justify the latex gloves
 
