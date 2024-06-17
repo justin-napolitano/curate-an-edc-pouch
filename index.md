@@ -3,7 +3,7 @@ title =  "Curate an EDC Pouch"
 date = "2024-06-17 15:42:34.376 -0500" 
 description = "Organizing your random tools into an edc pouch"
 author = "Justin Napolitano"
-tags = ['cooking']
+tags = ['edc','lifestyle','preperation']
 images = ["images/feauture-pouch.jpg"]
 +++
 
