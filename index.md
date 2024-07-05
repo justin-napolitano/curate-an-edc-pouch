@@ -5,6 +5,7 @@ description = "Organizing your random tools into an edc pouch"
 author = "Justin Napolitano"
 tags = ['edc','lifestyle','preperation']
 images = ["images/feauture-pouch.jpg"]
+categories = ["Personal"]
 +++
 
 
