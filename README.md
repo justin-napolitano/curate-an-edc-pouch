@@ -1,6 +1,6 @@
 # Curate an EDC Pouch
 
-This repository documents the process and rationale behind assembling an Everyday Carry (EDC) pouch designed to organize essential tools for daily life. The goal is to create a compact, modular kit that fits inside various bags and addresses common practical needs.
+This repository documents the process of assembling an Everyday Carry (EDC) pouch aimed at organizing essential tools for daily practical use. The goal is to create a compact, modular kit that fits inside various bags and addresses common day-to-day needs.
 
 ## Features
 
