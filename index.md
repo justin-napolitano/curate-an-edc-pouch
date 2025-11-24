@@ -20,6 +20,13 @@ seoSecondaryKeywords:
   - edc kit
   - personal organization
 seoOptimized: true
+topicFamily: climbing
+topicFamilyConfidence: 0.9
+topicFamilyNotes: >-
+  The post focuses on curating and organizing an everyday carry (EDC) pouch, emphasizing practical
+  physical gear and modularity for daily use and outdoor contexts. It closely matches the 'Climbing'
+  family which includes outdoor gear, ergonomic physical comfort, and EDC topics, as indicated by
+  example slugs including this exact post's slug.
 ---
 
 # Curate an EDC Pouch: Technical Overview and Rationale
@@ -76,4 +83,5 @@ Images in the `images/` directory complement the text by showing the pouch and i
 ## Summary
 
 This project exemplifies a methodical approach to organizing an EDC pouch by focusing on practical utility, modularity, and portability. It leverages simple documentation and visual aids to create a reference that can be revisited and refined over time. The absence of software components underscores its role as a personal project centered on physical organization rather than code.
+
 
