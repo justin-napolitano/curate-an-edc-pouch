@@ -1,12 +1,26 @@
 ---
-slug: "github-curate-an-edc-pouch"
-title: "curate-an-edc-pouch"
-repo: "justin-napolitano/curate-an-edc-pouch"
-githubUrl: "https://github.com/justin-napolitano/curate-an-edc-pouch"
-generatedAt: "2025-11-23T08:47:53.654791Z"
-source: "github-auto"
+slug: github-curate-an-edc-pouch
+title: 'Curate an EDC Pouch: Practical Setup for Modular Everyday Carry'
+repo: justin-napolitano/curate-an-edc-pouch
+githubUrl: https://github.com/justin-napolitano/curate-an-edc-pouch
+generatedAt: '2025-11-23T08:47:53.654791Z'
+source: github-auto
+summary: >-
+  Detailed documentation and rationale for organizing a compact, modular EDC pouch balancing
+  utility, size, weight, and adaptability.
+tags:
+  - everyday-carry
+  - edc
+  - modular-kit
+  - personal-organization
+  - documentation
+seoPrimaryKeyword: everyday carry pouch
+seoSecondaryKeywords:
+  - modular edc
+  - edc kit
+  - personal organization
+seoOptimized: true
 ---
-
 
 # Curate an EDC Pouch: Technical Overview and Rationale
 
@@ -62,3 +76,4 @@ Images in the `images/` directory complement the text by showing the pouch and i
 ## Summary
 
 This project exemplifies a methodical approach to organizing an EDC pouch by focusing on practical utility, modularity, and portability. It leverages simple documentation and visual aids to create a reference that can be revisited and refined over time. The absence of software components underscores its role as a personal project centered on physical organization rather than code.
+
