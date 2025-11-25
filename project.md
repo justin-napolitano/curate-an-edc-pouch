@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/curate-an-edc-pouch
 generatedAt: '2025-11-24T21:34:24.143Z'
 source: github-auto
 summary: >-
-  Explore the process of assembling a compact, modular Everyday Carry pouch with
-  essential tools and visual documentation.
+  Explore the process of assembling a compact, modular Everyday Carry pouch with essential tools and
+  visual documentation.
 tags:
   - markdown
   - documentation
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - supply list documentation
   - practical use tools
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: climbing
+topicFamilyConfidence: 0.7
 kind: project
 entryLayout: project
 showInProjects: true
@@ -87,4 +87,5 @@ curate-an-edc-pouch/
 ---
 
 This repository serves as a living document and reference for organizing an effective EDC pouch tailored to practical daily challenges.
+
 
