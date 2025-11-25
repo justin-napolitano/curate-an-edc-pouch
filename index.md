@@ -1,32 +1,40 @@
 ---
 slug: github-curate-an-edc-pouch
-title: 'Curate an EDC Pouch: Practical Setup for Modular Everyday Carry'
+title: 'Curate an EDC Pouch: Practical Guide and Overview'
 repo: justin-napolitano/curate-an-edc-pouch
 githubUrl: https://github.com/justin-napolitano/curate-an-edc-pouch
 generatedAt: '2025-11-23T08:47:53.654791Z'
 source: github-auto
 summary: >-
-  Detailed documentation and rationale for organizing a compact, modular EDC pouch balancing
-  utility, size, weight, and adaptability.
+  Explore the rationale and construction of a curated EDC pouch focused on
+  utility, modularity, and portability.
 tags:
   - everyday-carry
   - edc
   - modular-kit
   - personal-organization
   - documentation
-seoPrimaryKeyword: everyday carry pouch
+  - everyday carry
+  - EDC pouch
+  - modular tools
+  - practical utility
+seoPrimaryKeyword: curate an EDC pouch
 seoSecondaryKeywords:
-  - modular edc
-  - edc kit
-  - personal organization
+  - EDC kit organization
+  - modular pouch design
+  - tool selection for EDC
+  - practical everyday carry
 seoOptimized: true
 topicFamily: climbing
 topicFamilyConfidence: 0.9
 topicFamilyNotes: >-
-  The post focuses on curating and organizing an everyday carry (EDC) pouch, emphasizing practical
-  physical gear and modularity for daily use and outdoor contexts. It closely matches the 'Climbing'
-  family which includes outdoor gear, ergonomic physical comfort, and EDC topics, as indicated by
-  example slugs including this exact post's slug.
+  The post focuses on curating and organizing an everyday carry (EDC) pouch,
+  emphasizing practical physical gear and modularity for daily use and outdoor
+  contexts. It closely matches the 'Climbing' family which includes outdoor
+  gear, ergonomic physical comfort, and EDC topics, as indicated by example
+  slugs including this exact post's slug.
+kind: project
+id: github-curate-an-edc-pouch
 ---
 
 # Curate an EDC Pouch: Technical Overview and Rationale
