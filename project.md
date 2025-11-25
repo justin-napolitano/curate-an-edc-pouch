@@ -1,20 +1,29 @@
 ---
 slug: github-curate-an-edc-pouch
 id: github-curate-an-edc-pouch
-title: Curate an EDC Pouch
+title: Documenting the Assembly of an Everyday Carry Pouch
 repo: justin-napolitano/curate-an-edc-pouch
 githubUrl: https://github.com/justin-napolitano/curate-an-edc-pouch
 generatedAt: '2025-11-24T21:34:24.143Z'
 source: github-auto
 summary: >-
-  This repository documents the process of assembling an Everyday Carry (EDC)
-  pouch aimed at organizing essential tools for daily practical use. The goal is
-  to create a compact, modular kit that fits inside various bags and addresses
-  common day-to-day needs.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore the process of creating a compact, modular EDC pouch, including
+  features, tech stack, and future development plans.
+tags:
+  - markdown
+  - documentation
+  - edc pouch
+  - modular design
+  - project management
+  - static assets
+seoPrimaryKeyword: edc pouch documentation
+seoSecondaryKeywords:
+  - everyday carry kit
+  - modular pouch design
+  - essential tools organization
+  - markdown project documentation
+  - supply list justification
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
